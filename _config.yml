@@ -1,0 +1,13 @@
+# Site settings
+title: kreait Jobs
+email: nehmt-mich@kreait.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jobs.kreait.com" # the base hostname & protocol for your site
+twitter_username: kreait
+github_username:  kreait
+
+# Outputting
+permalink: /:title
+
+# Build settings
+markdown: kramdown
