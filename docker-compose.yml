@@ -1,0 +1,7 @@
+site:
+  image: jekyll/jekyll:stable
+  ports:
+    - 80:4000
+  volumes:
+   - .:/srv/jekyll
+
