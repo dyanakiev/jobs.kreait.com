@@ -1,6 +1,7 @@
 ---
 layout:   post
-title:    "PHP-EntwicklerIn"
+title:    PHP-EntwicklerIn
+name:     php-developer
 date:     2015-05-10 16:12:18
 location: Köln/Bonn
 ---

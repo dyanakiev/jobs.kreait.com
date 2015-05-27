@@ -1,6 +1,7 @@
 ---
 layout:   post
-title:    "Java-EntwicklerIn"
+title:    Java-EntwicklerIn
+name:     java-developer
 date:     2015-05-10 16:10:18
 location: Berlin
 ---

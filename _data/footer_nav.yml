@@ -1,0 +1,9 @@
+en:
+  imprint: 
+    title: "Imprint"
+    url:   "/imprint/"
+
+de:
+  imprint: 
+    title: "Impressum"
+    url:   "/impressum/"

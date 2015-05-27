@@ -7,7 +7,38 @@ twitter_username: kreait
 github_username:  kreait
 
 # Outputting
-permalink: /:title
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  # Default language
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      layout: default
+  -
+    scope:
+      path: _posts/en
+    values:
+      lang: en
+  -
+    scope:
+      path: _posts/en/pages
+    values:
+      type: pages
+      layout: page
+  -
+    scope:
+      path: _posts/de
+    values:
+      lang: de
+  -
+    scope:
+      path: _posts/de/pages
+    values:
+      type: pages
+      layout: page
