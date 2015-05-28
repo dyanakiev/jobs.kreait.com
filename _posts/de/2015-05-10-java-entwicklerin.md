@@ -10,8 +10,8 @@ location: Berlin
 
 - **Grundlagen**:
     + Eine abgeschlossene Ausbildung im Bereich Fachinformatik oder ein abgeschlossenes Studium in einem fachrelevanten Bereich
-    + Erfahrung mit Java, OOP und den gängigen Frameworks und Tools (git, MySQL, Spring MVC, JUnit, etc.)
-    + Gute Kenntnisse im Umgang mit HTML, CSS, JavaScript
+    + Sehr gute Java-Kentnisse und Erfahrung mit gängigen Frameworks und Tools (Spring Framework, Hibernate, JUnit, git)
+    + Erfahrung mit unterschiedlichen Datenbanksystemen
     + Kenntnisse im Umgang mit Linux und der Shell
     + Gute Deutsch- und Englisch-Kenntnisse
 - **Motivation**: Du entwickelst gerne Software und hast Spaß daran, Neues dazuzulernen.
