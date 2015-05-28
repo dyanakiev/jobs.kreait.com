@@ -10,8 +10,8 @@ location: Berlin
 
 - **Basics**:
     + Degree in Computer Science or related field
-    + Experience with Java, OOP and most popular Frameworks and Tools (git, MySQL, Spring MVC, JUnit, etc.)
-    + Ability to produce and understand HTML, CSS, JavaScript
+    + Experience with Java, OOP and most popular Frameworks and Tools (Spring Framework, Hibernate, JUnit, git, etc.)
+    + Knowledge about different database principles and systems
     + Ability to use Linux and the Shell
     + Good English knowledge
     + Commitment to learn German
