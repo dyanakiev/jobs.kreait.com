@@ -2,8 +2,14 @@ en:
   imprint: 
     title: "Imprint"
     url:   "/imprint/"
+  rss:
+    title: "RSS Feed"
+    url:   "/feed_en.xml"
 
 de:
   imprint: 
     title: "Impressum"
     url:   "/impressum/"
+  rss:
+    title: "RSS Feed"
+    url:   "/feed_de.xml"
