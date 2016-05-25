@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    Junior Frontend Developer (HTML / CSS / JS)
-name:     Frontend-developerJR
+name:     frontend-developer-jr
 date:     2016-05-25 16:10:18
 location: Berlin
 ---

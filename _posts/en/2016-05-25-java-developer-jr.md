@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    Software Developer (Java)
-name:     java-developer
+name:     java-developer-jr
 date:     2016-05-10 16:10:18
 location: Berlin
 ---
