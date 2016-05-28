@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    Software EntwicklerIn (Java)
-name:     java-entwicklerin
-date:     2016-05-27 21:00:00
+title:    Software EntwicklerIn (Swift / Objective-C)
+name:     swift-objective-c-entwicklerin
+date:     2016-05-27 17:00:00
 location: Bonn/Berlin/München
 ---
 
@@ -10,8 +10,8 @@ location: Bonn/Berlin/München
 
 - **Grundlagen**:
     + Eine abgeschlossene Ausbildung im Bereich Fachinformatik oder ein abgeschlossenes Studium in einem fachrelevanten Bereich
-    + Sehr gute Java-Kentnisse und Erfahrung mit gängigen Frameworks und Tools (Spring Framework, Hibernate, JUnit, git)
-    + Erfahrung mit unterschiedlichen Datenbanksystemen
+    + Erfahrung mit C++ und den Standard Template Library (STL) Container Klassen und Algorithmen
+    + Erfahrung mit Objective-C und Swift 
     + Kenntnisse im Umgang mit Linux und der Shell
     + Gute Deutsch- und Englisch-Kenntnisse
 - **Motivation**: Du entwickelst gerne Software und hast Spaß daran, Neues dazuzulernen.

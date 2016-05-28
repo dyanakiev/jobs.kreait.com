@@ -11,7 +11,7 @@ location: Berlin/Bonn/Munich
 - **Basics**:
 	+ Degree in Computer Science or related field
 	+ Experience with HTML5, CSS3 for browser and mobile devices
-	+ Knowledge about interactive elements in JavaScript, JQuery and AJAX
+	+ Knowledge about current JavaScript runtimes and frameworks like node.js, React and Angular
 	+ Ability to use Linux and the Shell
 	+ Good English knowledge
 	+ Commitment to learn German
