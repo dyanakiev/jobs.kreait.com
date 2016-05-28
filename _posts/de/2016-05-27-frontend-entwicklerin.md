@@ -3,6 +3,8 @@ layout:   post
 title:    Software EntwicklerIn (Frontend)
 name:     frontend-entwicklerin
 date:     2016-05-27 23:00:00
+lang:     de
+ref:      frontend
 location: Bonn/Berlin/München
 ---
 

@@ -3,6 +3,8 @@ layout:   post
 title:    Software EntwicklerIn (Swift / Objective-C)
 name:     swift-objective-c-entwicklerin
 date:     2016-05-27 17:00:00
+lang:     de
+ref:      swift-objective-c
 location: Bonn/Berlin/München
 ---
 

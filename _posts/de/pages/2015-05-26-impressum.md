@@ -1,7 +1,8 @@
 ---
 title: Impressum
 name: imprint
-permalink: /impressum
+lang: de
+ref: imprint
 ---
 
 Angaben gemäß § 5 TMG:

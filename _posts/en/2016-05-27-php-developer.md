@@ -3,6 +3,8 @@ layout:   post
 title:    Software Developer (PHP)
 name:     php-developer
 date:     2016-05-27 19:00:00
+lang:     en
+ref:      php
 location: Berlin/Bonn/Munich
 ---
 

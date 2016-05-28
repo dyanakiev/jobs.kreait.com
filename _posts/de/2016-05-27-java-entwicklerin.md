@@ -3,6 +3,8 @@ layout:   post
 title:    Software EntwicklerIn (Java)
 name:     java-entwicklerin
 date:     2016-05-27 21:00:00
+lang:     de
+ref:      java
 location: Bonn/Berlin/München
 ---
 

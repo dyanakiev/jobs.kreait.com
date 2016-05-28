@@ -16,11 +16,16 @@
       </a>
 
       <div class="trigger">
-        {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
-        
-        {% for post in posts %}
-            <a href="{{ post.url }}" class="page-link {{ post.lang }}">{{ post.lang }}</a>
-        {% endfor %}
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+
+          {% for post in posts %}
+          <a href="{{ post.url }}" class="page-link {{ post.lang }}">{{ post.lang }}</a>
+          {% endfor %}
+
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for page in pages %}
+          <a href="{{ post.url }}" class="page-link {{ post.lang }}">{{ post.lang }}</a>
+          {% endfor %}
       </div>
     </nav>
 

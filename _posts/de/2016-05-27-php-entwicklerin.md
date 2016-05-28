@@ -3,6 +3,8 @@ layout:   post
 title:    Software EntwicklerIn (PHP)
 name:     php-entwicklerin
 date:     2016-05-27 19:00:00
+lang:     de
+ref:      php
 location: Bonn/Berlin/München
 ---
 

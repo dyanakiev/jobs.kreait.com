@@ -3,6 +3,8 @@ layout:   post
 title:    Software Developer (Swift / Objective-C)
 name:     swift-objective-c-developer
 date:     2016-05-27 17:00:00
+lang:     en
+ref:      swift-objective-c
 location: Berlin/Bonn/Munich
 ---
 

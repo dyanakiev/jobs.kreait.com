@@ -3,6 +3,8 @@ layout:   post
 title:    Software Developer (Frontend)
 name:     frontend-developer
 date:     2016-05-27 23:00:00
+lang:     en
+ref:      frontend
 location: Berlin/Bonn/Munich
 ---
 

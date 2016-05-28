@@ -1,8 +1,10 @@
 ---
 layout:   post
-title:    You
-name:     you
+title:    We want you!
+name:     we-want-you
 date:     2016-05-27 15:00:00
+lang:     en
+ref:      we-want-you
 location: Berlin/Bonn/Munich
 ---
 

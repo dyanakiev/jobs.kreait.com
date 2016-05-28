@@ -3,6 +3,8 @@ layout:   post
 title:    Wir suchen dich!
 name:     wir-suchen-dich
 date:     2016-05-27 15:00:00
+lang:     de
+ref:      we-want-you
 location: Bonn/Berlin/München
 ---
 
