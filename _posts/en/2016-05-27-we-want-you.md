@@ -11,15 +11,13 @@ location: Berlin/Bonn/Munich
 ### What we expect
 
 - **Basics**:
-    + Degree in Computer Science or related field
-    + Proficiency in C++ and the Standard Template Library (STL) container classes and algorithms
-    + Experience programming in Objective-C
-    + Ability to use Linux and the Shell
+    + You couldn’t find the job you were looking for on our page
+    + You want to work with awesome international clients and a great team
     + Good English knowledge
     + Commitment to learn German
-- **Motivation**: You like to develop software and you enjoy learning
-- **Team Spirit and Independence**: You are relaxed, but nevertheless focused, helping others and you have no problem accepting others' help. OpenSource means something to you, and probably there are already couple projects on your GitHub account.
-- **Quality**: You like writing good code and you know how to deliver quality.
+- **Motivation**: You like to develop astonishing solutions and you enjoy learning
+- **Team Spirit and Independence**: You are relaxed, but nevertheless focused, helping others and you have no problem accepting others' help. 
+- **Quality**: You know how to deliver quality.
 - **Thirst for Knowledge**: You like to keep yourself up-to-date with latest news in the industry, trying out new tools and techniques.
 
 ### What expects you
