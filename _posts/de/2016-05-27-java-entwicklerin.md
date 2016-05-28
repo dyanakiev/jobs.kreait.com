@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    Java-EntwicklerIn
-name:     java-developer
-date:     2015-05-10 16:10:18
-location: Berlin
+title:    Software EntwicklerIn (Java)
+name:     java-entwicklerin
+date:     2016-05-27 21:00:00
+location: Bonn/Berlin/München
 ---
 
 ### Was wir von dir erwarten
@@ -26,4 +26,3 @@ location: Berlin
 - Interessante Aufgaben in unterschiedlichen Bereichen der Medienwirtschaft
 - Herausfordernde Projekte mit nationalen und internationalen Kunden
 - Eine kreative und entspannte Arbeitsatmosphäre
-- In Berlin ein tolles Dachgeschoss-Büro im Herzen von Mitte

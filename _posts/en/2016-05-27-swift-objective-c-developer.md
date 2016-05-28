@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    Software Developer (PHP)
-name:     php
-date:     2016-05-27 19:00:00
+title:    Software Developer (Swift / Objective-C)
+name:     swift-objective-c-developer
+date:     2016-05-27 17:00:00
 location: Berlin/Bonn/Munich
 ---
 
@@ -10,8 +10,8 @@ location: Berlin/Bonn/Munich
 
 - **Basics**:
     + Degree in Computer Science or related field
-    + Experience with PHP 5.x, OOP and most popular frameworks and tools (git, MySQL, Symfony, Doctrine, Composer, PHPUnit, etc.)
-    + Ability to produce and understand HTML, CSS, JavaScript
+    + Proficiency in C++ and the Standard Template Library (STL) container classes and algorithms
+    + Experience programming in Objective-C
     + Ability to use Linux and the Shell
     + Good English knowledge
     + Commitment to learn German

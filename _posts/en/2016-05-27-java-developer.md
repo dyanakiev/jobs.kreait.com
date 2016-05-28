@@ -1,8 +1,8 @@
 ---
 layout:   post
-title:    Software Developer (Swift / Objective-C)
-name:     swift-objective-c
-date:     2016-05-27 17:00:00
+title:    Software Developer (Java)
+name:     java-developer
+date:     2016-05-27 21:00:00
 location: Berlin/Bonn/Munich
 ---
 
@@ -10,8 +10,8 @@ location: Berlin/Bonn/Munich
 
 - **Basics**:
     + Degree in Computer Science or related field
-    + Proficiency in C++ and the Standard Template Library (STL) container classes and algorithms
-    + Experience programming in Objective-C
+    + Experience with Java, OOP and most popular frameworks and tools (Spring Framework, Hibernate, JUnit, git, etc.)
+    + Knowledge about different database principles and systems
     + Ability to use Linux and the Shell
     + Good English knowledge
     + Commitment to learn German

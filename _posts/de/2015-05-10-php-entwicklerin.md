@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    PHP-EntwicklerIn
-name:     php-developer
-date:     2015-05-10 16:12:18
-location: Köln/Bonn
+title:    Software EntwicklerIn (PHP)
+name:     php-entwicklerin
+date:     2016-05-27 19:00:00
+location: Bonn/Berlin/München
 ---
 
 ### Was wir von dir erwarten
