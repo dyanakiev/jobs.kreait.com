@@ -1,0 +1,35 @@
+<div class="flyers">
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/01_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/01_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/02_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/02_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/03_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/03_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/04_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/04_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/05_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/05_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/06_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/06_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/07_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/07_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/08_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/08_1.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/09_2.jpg" /></div>
+    <div><img data-lazy="/assets/flyers/{{ include.color }}/09_1.jpg" /></div>
+</div>
+
+<script>
+$(document).ready(function(){
+    $('.flyers').slick({
+        dots: true,
+        infinite: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        speed: 1000,
+        lazyLoad: 'ondemand',
+        slidesToShow: 2,
+        slidesToScroll: 2
+    });
+});
+</script>
