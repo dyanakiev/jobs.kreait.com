@@ -1,10 +1,10 @@
 ---
 layout:   post
-title:    Software Developer (Swift / Objective-C)
-name:     swift-objective-c-developer
-date:     2016-05-27 17:00:00
+title:    Software Developer Android
+name:     android-developer
+date:     2016-05-27 21:00:00
 lang:     en
-ref:      swift-objective-c
+ref:      android
 location: Berlin/Bonn/Munich
 ---
 
@@ -12,8 +12,8 @@ location: Berlin/Bonn/Munich
 
 - **Basics**:
     + Degree in Computer Science or related field
-    + Proficiency in C++ and the Standard Template Library (STL) container classes and algorithms
-    + Experience programming in Objective-C
+    + Experience with Java, Android SKD most popular frameworks and tools 
+    + Knowledge about REST APIs
     + Ability to use Linux and the Shell
     + Good English knowledge
     + Commitment to learn German

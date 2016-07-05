@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Software Developer (Java)
+title:    Software Developer Java
 name:     java-developer
 date:     2016-05-27 21:00:00
 lang:     en
