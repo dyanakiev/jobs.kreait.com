@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    Software Developer Java (m/w)
-name:     java-entwicklerin
+name:     java-developer
 date:     2016-05-27 21:00:00
 lang:     de
 ref:      java

@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    Software EntwicklerIn (PHP)
-name:     php-entwicklerin
+title:    Software Developer PHP (m/w)
+name:     php-developer
 date:     2016-05-27 19:00:00
 lang:     de
 ref:      php
