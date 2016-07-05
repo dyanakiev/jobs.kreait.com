@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Software EntwicklerIn (Java)
+title:    Software Developer Java (m/w)
 name:     java-entwicklerin
 date:     2016-05-27 21:00:00
 lang:     de
@@ -11,9 +11,11 @@ location: Bonn/Berlin/München
 ### Was wir von dir erwarten
 
 - **Grundlagen**:
-    + Eine abgeschlossene Ausbildung im Bereich Fachinformatik oder ein abgeschlossenes Studium in einem fachrelevanten Bereich
+    + Studium der Informatik oder abgeschlossene Ausbildung im Bereich Fachinformatik oder entsprechende Berufserfahrung in der Software-Entwicklung
     + Sehr gute Java-Kentnisse und Erfahrung mit gängigen Frameworks und Tools (Spring Framework, Hibernate, JUnit, git)
-    + Erfahrung mit unterschiedlichen Datenbanksystemen
+    + Erfahrung mit unterschiedlichen SQL und NoSQL Datenbanksystemen
+    + Gutes Verständnis für Objektorientierte Programmierung und Design Pattern
+    + Erfahrung im Umgang mit Rest APIs
     + Kenntnisse im Umgang mit Linux und der Shell
     + Gute Deutsch- und Englisch-Kenntnisse
 - **Motivation**: Du entwickelst gerne Software und hast Spaß daran, Neues dazuzulernen.

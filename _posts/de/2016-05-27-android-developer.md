@@ -1,19 +1,21 @@
 ---
 layout:   post
-title:    Software EntwicklerIn (Frontend)
-name:     frontend-entwicklerin
-date:     2016-05-27 23:00:00
+title:    Software Developer Android (m/w)
+name:     android-developer
+date:     2016-05-27 21:00:00
 lang:     de
-ref:      frontend
+ref:      android
 location: Bonn/Berlin/München
 ---
 
 ### Was wir von dir erwarten
 
 - **Grundlagen**:
-    + Eine abgeschlossene Ausbildung im Bereich Fachinformatik oder ein abgeschlossenes Studium in einem fachrelevanten Bereich
-    + Erfahrung mit HTML5, CSS3 für Desktop Browser and mobile Endgeräte
-    + Gute Kenntnisse im Umgang mit aktuellen JavaScript Runtimes und Frameworks wie node.js, React und Angular
+    + Studium der Informatik oder abgeschlossene Ausbildung im Bereich Fachinformatik oder entsprechende Berufserfahrung in der Software-Entwicklung
+    + Sehr gute Kentnisse der Java Programmiersprache und des Android SDKs
+    + Erfahrung mit gängigen Frameworks und Tools
+    + Gutes Verständnis für Objektorientierte Programmierung und Design Pattern
+    + Erfahrung im Umgang mit Rest APIs
     + Kenntnisse im Umgang mit Linux und der Shell
     + Gute Deutsch- und Englisch-Kenntnisse
 - **Motivation**: Du entwickelst gerne Software und hast Spaß daran, Neues dazuzulernen.
@@ -23,7 +25,7 @@ location: Bonn/Berlin/München
 
 ### Was dich bei uns erwartet
 
-- Ein schlagkräftiges Team von 14 Leuten, auf das man sich jeden Tag freuen kann
+- Ein schlagkräftiges Team auf das man sich jeden Tag freuen kann
 - Flache Hierarchien mit kompetenten Leuten auf allen Positionen
 - Interessante Aufgaben in unterschiedlichen Bereichen der Medienwirtschaft
 - Herausfordernde Projekte mit nationalen und internationalen Kunden
