@@ -24,7 +24,7 @@ location: Berlin/Bonn/Munich
 
 ### What expects you
 
-- A powerful team of 14 people you'll be glad to meet every day
+- A powerful team of 15 people you'll be glad to meet every day
 - Flat hierarchy with competent people in their positions
 - Interesting tasks in different fields
 - Challenging projects with domestic and international customers
