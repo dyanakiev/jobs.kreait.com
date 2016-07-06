@@ -21,7 +21,7 @@ location: Bonn/Berlin/München
 
 ### Was dich bei uns erwartet
 
-- Ein schlagkräftiges Team von 14 Leuten, auf das man sich jeden Tag freuen kann
+- Ein schlagkräftiges Team von 15 Leuten, auf das man sich jeden Tag freuen kann
 - Flache Hierarchien mit kompetenten Leuten auf allen Positionen
 - Interessante Aufgaben in unterschiedlichen Bereichen der Medienwirtschaft
 - Herausfordernde Projekte mit nationalen und internationalen Kunden
