@@ -11,11 +11,6 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
-    <script src="//code.jquery.com/jquery-3.0.0.min.js"></script>
-    <script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-
     {% assign posts=site.posts | where:"name", page.name %}
     {% for post in posts %}
       {% if post.lang != page.lang %}
