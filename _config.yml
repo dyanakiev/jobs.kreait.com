@@ -7,7 +7,7 @@ twitter_username: kreait
 github_username:  kreait
 
 # Outputting
-permalink: /:title/
+permalink: /:categories/:title/
 
 # Build settings
 markdown: kramdown
@@ -25,20 +25,24 @@ defaults:
       path: _posts/en
     values:
       lang: en
+      categories: en
   -
     scope:
       path: _posts/en/pages
     values:
       type: pages
       layout: page
+      categories: en
   -
     scope:
       path: _posts/de
     values:
       lang: de
+      categories: de
   -
     scope:
       path: _posts/de/pages
     values:
       type: pages
       layout: page
+      categories: de
