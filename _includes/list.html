@@ -2,6 +2,8 @@
 
 <ul class="post-list">
   {% for post in posts %}
+    {% if site.exclude_from_list contains post.ref %}
+    {% else %}
     <li class="lang">
       <span class="post-meta">{{ post.location }}</span>
 
@@ -9,5 +11,6 @@
         <a class="post-link {{post.lang}}" href="{{ post.url }}">{{ post.title }}</a>
       </h2>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
